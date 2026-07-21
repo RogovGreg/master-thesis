@@ -1,0 +1,8 @@
+role,file,accession,length_bp,n_count,ambiguous_non_n_count,ambiguous_total_count,ambiguous_symbols,non_iupac_symbols,record_count,original_header
+reference,reference.fasta,NC_045512.2,29903,0,0,0,,,1,"NC_045512.2 |Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome"
+sample_1_early_2020,sample-1.fasta,PX622476.1,29903,0,0,0,,,1,"PX622476.1 |Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/HUMAN/CHN/DT-travelES01/2020, complete genome"
+sample_2_beta_B.1.351_2021,sample-2.fasta,OR936774.1,29816,19,0,19,N,,1,"OR936774.1 |Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/ZAF/B.1.351/2021, complete genome"
+sample_3_delta_B.1.617.2_2021,sample-3.fasta,OR939692.1,29821,0,0,0,,,1,"OR939692.1 |Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/ZAF/B.1.617.2/2021, complete genome"
+sample_4_2022_spain_unconfirmed_lineage,sample-4.fasta,PQ726080.1,29759,86,0,86,N,,1,"PQ726080.1 |Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/ESP/13627, sequenced with MiSeq (Illumina)./2022, complete genome"
+sample_5_unknown_lineage_review_quality_warning,sample-5.fasta,OZ074724.1,29843,378,3,381,NY,,1,"OZ074724.1 |Severe acute respiratory syndrome coronavirus 2 isolate INEI125516 genome assembly, complete genome: monopartite"
+sample_6_2026_usa_unconfirmed_lineage,sample-6.fasta,PZ368081.1,29794,1,0,1,N,,1,"PZ368081.1 |Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/USA/CA-LACPHL-AY16346/2026, complete genome"
