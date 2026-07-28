@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="pB_JW3Ho0JHbmXSknPr0">
+    <mxGraphModel dx="1022" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="380" width="760" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Пријем и иницијализација аналитичког задатка&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="245" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-29" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Системска конфигурација" vertex="1">
+          <mxGeometry height="40" width="240" x="60" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конфигурација аналитичког задатка" vertex="1">
+          <mxGeometry height="40" width="240" x="540" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;2572&quot; data-end=&quot;2617&quot;&gt;Потпуна конфигурација аналитичког задатка&lt;/span&gt;&lt;br&gt;&lt;span data-start=&quot;2622&quot; data-end=&quot;2691&quot;&gt;(експлицитно задате вредности имају приоритет над подразумеваним)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="500" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Подешавање окружења аналитичког језгра" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Модел завршног извештаја" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-17" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="180" />
+            </Array>
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-18" connectable="0" parent="BcpNELc4YkkhxBgyda9Y-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="подразумеване вредности" vertex="1">
+          <mxGeometry relative="1" x="-0.0484" y="7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-19" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="180" />
+            </Array>
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-20" connectable="0" parent="BcpNELc4YkkhxBgyda9Y-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="експлицитно задате вредности" vertex="1">
+          <mxGeometry relative="1" x="-0.3103" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-22" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="290" y="280" />
+            </Array>
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-24" connectable="0" parent="BcpNELc4YkkhxBgyda9Y-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="системски параметри" vertex="1">
+          <mxGeometry relative="1" x="-0.2429" y="10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcpNELc4YkkhxBgyda9Y-28" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-5" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-8" value="параметри извештаја одређени на основу&lt;br&gt;улазних података и експлицитно задатих параметара">
+          <mxGeometry height="50" relative="1" width="50" x="-0.4008" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="590" y="300" />
+              <mxPoint x="540" y="320" />
+            </Array>
+            <mxPoint x="420" y="300" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
