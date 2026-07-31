@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="FRfa7gDF8rm0Jglzj7lv">
-    <mxGraphModel dx="767" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,8 +92,8 @@
         <mxCell id="fIxDzetzPopSfdlK1sRm-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="600" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="fIxDzetzPopSfdlK1sRm-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Формирование отчёта сравнительного анализа" vertex="1">
-          <mxGeometry height="60" width="180" x="640" y="480" as="geometry" />
+        <mxCell id="fIxDzetzPopSfdlK1sRm-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p&gt;Формирање извештаја упоредне анализе&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="640" y="480" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-29" edge="1" parent="1" source="fIxDzetzPopSfdlK1sRm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fIxDzetzPopSfdlK1sRm-12">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обрада привремених и изворних датотека у складу са политиком чувања" vertex="1">
-          <mxGeometry height="40" width="250" x="310" y="690" as="geometry" />
+          <mxGeometry height="40" width="270" x="300" y="690" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Број валидних секвенци" vertex="1">
           <mxGeometry height="30" width="160" x="409" y="251" as="geometry" />
