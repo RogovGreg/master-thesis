@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="iyYXL4uZipd41IUujxFN">
-    <mxGraphModel dx="1314" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="MFd9MK_nad8XhqwuTopf-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Приузети локалну&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;верзију система&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="128" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="Систем &lt;i&gt;JELICA&lt;/i&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;b&gt;Систем &lt;i&gt;JELICA&lt;/i&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="303" y="8" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Функције аналитичког језгра &lt;i&gt;JELICA&lt;/i&gt;" vertex="1">
