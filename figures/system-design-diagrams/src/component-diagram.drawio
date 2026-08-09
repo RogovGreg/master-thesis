@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="R_BfTcXR5A-l-TwNLbNX">
-    <mxGraphModel dx="876" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,7 +310,7 @@
         <mxCell id="xpa7FIak9CT5xzypVXaN-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Core&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="86.53846153846153" x="369.5192307692308" y="451" as="geometry" />
         </mxCell>
-        <mxCell id="xpa7FIak9CT5xzypVXaN-5" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" value="&amp;nbsp; &amp;nbsp;Orchestrator" vertex="1">
+        <mxCell id="xpa7FIak9CT5xzypVXaN-5" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;align=left;" value="&amp;nbsp; &amp;nbsp;Scheduler" vertex="1">
           <mxGeometry height="30" width="200" x="180" y="506" as="geometry" />
         </mxCell>
         <mxCell id="xpa7FIak9CT5xzypVXaN-6" parent="xpa7FIak9CT5xzypVXaN-5" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
