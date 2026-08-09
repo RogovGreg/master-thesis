@@ -1,88 +1,10 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{pangrami}[2015/10/01 v.1.0 Pangrami na srpskom jeziku]
-\RequirePackage{iflang}
-\newif\ifpangrami@latinica
-\DeclareOption{latinica}{\pangrami@latinicatrue}
-\ProcessOptions\relax
-
-\newcommand{\pangrami@srlat}{%
-Fijuče vetar u šiblju, ledi pasaže i kuće iza njih i gunđa u odžacima.
-Nidžo, čežnjivo gledaš fotelju, a Đura i Mika hoće poziciju sebi. 
-Ljudi, jazavac Džef trči po šumi glođući neko suho žbunje.
-Ljubavi, Olga, hajde pođi u Fudži i čut ćeš nježnu muziku srca.
-Boja vaše haljine, gospođice Džafić, traži da za nju kulučim.
-Hadži Đera je zaćutao i bacio čežnjiv pogled na šolju s kafom. 
-Džabe se zec po Homolju šunja, čuvar Jožef lako će i tu da ga nađe.
-Odžačar Filip šalje osmehe tuđoj ženi, a njegova kuća bez dece.
-Butić Đuro iz Foče ima pun džak ideja o slaganju vaših željica.
-Džajić odskoči u aut i izbeže đon halfa Pecelja i njegov šamar.
-Plamte odžaci fabrika a čađave guje se iz njih dižu i šalju noć. 
-Ajšo, lepoto i čežnjo, za ljubav srca moga, dođi u Hadžiće na kafu.
-Huči šuma, a iza žutog džbuna i panja đak u cveću delje seji frulu.
-Goci i Jaćimu iz Banje Koviljače, flaša džina i žeđ padahu u istu uru.
-Džaba što Feđa čupa za kosu Milju, ona juri Živu, ali njega hoće i Daca.
-Dok je Fehim u džipu žurno ljubio Zagu Čađević, Cile se ušunjao u auto.
-Fijuče košava nad odžacima a Ilja u gunju žureći uđe u suhu i toplu izbu. 
-Bože, džentlmeni osećaju fizičko gađenje od prljavih šoljica! 
-Dočepaće njega jaka šefica, vođena ljutom srdžbom zlih žena.
-Pazi, gedžo, brže odnesi šefu taj đavolji ček: njim plaća ceh.
-Fine džukce ozleđuje bič: odgoj ih pažnjom, strpljivošću. 
-Zamišljao bi kafedžiju vlažnih prstića, crnjeg od čađi. 
-Đače, uštedu plaćaj žaljenjem zbog džinovskih cifara. 
-Džikljaće žalfija između tog busenja i peščanih dvoraca.
-Zašto gđa Hadžić leči živce: njena ljubav pred fijaskom?
-Jež hoće peckanjem da vređa ljubičastog džina iz flaše.
-Džej, ljubičast zec, laže: gađaće odmah pokvašen fenjer. 
-Plašljiv zec hoće jeftinu dinju: grožđe iskamči džabe. 
-Džak je pun žica: čućeš tad svađu zbog lomljenja harfe. 
-Čuj, džukac Flop bez daha s gađenjem žvaće stršljena. 
-Oh, zadnji šraf na džipu slab: muž gđe Cvijić ljut koči.
-Šef džabe zvižduće: mlađi hrt jače kljuca njenog psa. 
-Odbaciće kavgadžija plaštom čađ u željezni fenjer.
-Deblji krojač: zgužvah smeđ filc u tanjušni džepić.
-Džo, zgužvaćeš tiho smeđ filc najdeblje krpenjače. 
-Štef, bacih slomljen dečji zvrk u džep gđe Žunjić.
-Debljoj zgužvah smeđ filc — njen škrt džepčić.
-}
+\ProvidesPackage{pangrami}[2026/08/09 Pangrami na srpskom jeziku, cirilica]
 
 \newcommand{\pangrami@srcir}{%
-Фијуче ветар у шибљу, леди пасаже и куће иза њих и гунђа у оџацима.
-Ниџо, чежњиво гледаш фотељу, а Ђура и Мика хоће позицију себи. 
-Људи, јазавац Џеф трчи по шуми глођући неко сухо жбуње.
-Љубави, Олга, хајде пођи у Фуџи и чут ћеш њежну музику срца.
-Боја ваше хаљине, госпођице Џафић, тражи да за њу кулучим.
-Хаџи Ђера је заћутао и бацио чежњив поглед на шољу с кафом. 
-Џабе се зец по Хомољу шуња, чувар Јожеф лако ће и ту да га нађе.
-Оџачар Филип шаље осмехе туђој жени, а његова кућа без деце.
-Бутић Ђуро из Фоче има пун џак идеја о слагању ваших жељица.
-Џајић одскочи у аут и избеже ђон халфа Пецеља и његов шамар.
-Пламте оџаци фабрика а чађаве гује се из њих дижу и шаљу ноћ. 
-Ајшо, лепото и чежњо, за љубав срца мога, дођи у Хаџиће на кафу.
-Хучи шума, а иза жутог џбуна и пања ђак у цвећу деље сеји фрулу.
-Гоци и Јаћиму из Бање Ковиљаче, флаша џина и жеђ падаху у исту уру.
-Џаба што Феђа чупа за косу Миљу, она јури Живу, али њега хоће и Даца.
-Док је Фехим у џипу журно љубио Загу Чађевић, Циле се ушуњао у ауто.
-Фијуче кошава над оџацима а Иља у гуњу журећи уђе у суху и топлу избу. 
-Боже, џентлмени осећају физичко гађење од прљавих шољица! 
-Дочепаће њега јака шефица, вођена љутом срџбом злих жена.
-Пази, геџо, брже однеси шефу тај ђавољи чек: њим плаћа цех.
-Фине џукце озлеђује бич: одгој их пажњом, стрпљивошћу. 
-Замишљао би кафеџију влажних прстића, црњег од чађи. 
-Ђаче, уштеду плаћај жаљењем због џиновских цифара. 
-Џикљаће жалфија између тог бусења и пешчаних двораца.
-Зашто гђа Хаџић лечи живце: њена љубав пред фијаском?
-Јеж хоће пецкањем да вређа љубичастог џина из флаше.
-Џеј, љубичаст зец, лаже: гађаће одмах поквашен фењер. 
-Плашљив зец хоће јефтину дињу: грожђе искамчи џабе. 
-Џак је пун жица: чућеш тад свађу због ломљења харфе. 
-Чуј, џукац Флоп без даха с гађењем жваће стршљена. 
-Ох, задњи шраф на џипу слаб: муж гђе Цвијић љут кочи.
-Шеф џабе звиждуће: млађи хрт јаче кљуца њеног пса. 
-Одбациће кавгаџија плаштом чађ у жељезни фењер.
-Дебљи кројач: згужвах смеђ филц у тањушни џепић.
-Џо, згужваћеш тихо смеђ филц најдебље крпењаче. 
-Штеф, бацих сломљен дечји зврк у џеп гђе Жуњић.
-Дебљој згужвах смеђ филц — њен шкрт џепчић.
+Савремена геномска анализа често подразумева употребу већег броја специјализованих алата за припрему података, поравнање секвенци, откривање разлика и анализу еволуционих односа. Њихово комбиновање захтева ручни пренос података између различитих формата и окружења, као и додатно управљање међурезултатима. У овом мастер раду анализирани су постојећи приступи и софтверски алати за обраду и поређење геномских секвенци, са циљем утврђивања могућности за обједињавање најважнијих корака анализе у јединствен систем.
+
+Као резултат рада развијен је софтверски систем \textit{JELICA} (\textit{Juxtaposing Evolutionary Lineages in Comparative Analysis}), намењен аутоматизацији упоредне анализе целих или приближно целих геномских секвенци уз узимање у обзир њихове еволуционе повезаности. Систем обухвата проверу и припрему улазних података, израчунавање статистичких показатеља, вишеструко поравнање секвенци, упоредну анализу, формирање матрице генетичких растојања, реконструкцију филогенетичког стабла и издвајање група сродних секвенци. Аналитички задаци могу се покретати и пратити преко интерфејса командне линије, веб-платформе и десктоп апликације, док се резултати могу приказивати интерактивно и извозити у облику извештаја. За њихово целовито чување и размену уведен је преносиви формат \texttt{.jelica}, који обједињује улазне податке, резултате аналитичких фаза и пратеће метаподатке. Оваква организација омогућава да се поступак геномске анализе извршава на доследан и поновљив начин, уз мању потребу за ручним повезивањем независних алата и обрадом њихових резултата.
 }
 
 \newcommand{\pangrami@en}{%
@@ -110,18 +32,4 @@ Jump by vow of quick, lazy strength in Oxford.
 Mr.~Jock, TV quiz PhD, bags few lynx.
 }
 
-\newcommand{\pangrami}{%
-\IfLanguageName{serbianc}{%
-\pangrami@srcir%
-}{%
-\IfLanguageName{serbian}{%
-\ifpangrami@latinica%
-\pangrami@srlat%
-\else%
-\pangrami@srcir%
-\fi
-}{%
-\pangrami@en
-}
-}
-}
+\newcommand{\pangrami}{\pangrami@srcir}
