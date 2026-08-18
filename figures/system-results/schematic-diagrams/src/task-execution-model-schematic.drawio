@@ -1,32 +1,29 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="WRbSC0ObJdcjJLpVcNOe">
-    <mxGraphModel dx="341" dy="210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IAIlfik7lqYtiTm0q00A-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;Runtime&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/code&gt;&lt;br&gt;Окружење у којем извршавање „живи“&lt;/font&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="280" x="320" y="188" as="geometry" />
-        </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;&quot;&gt;&lt;font style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i&gt;Analytical Task&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;Шта треба урадити?&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="80" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="IAIlfik7lqYtiTm0q00A-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Scheduler&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;Када и коме доделити рад?&lt;/font&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="360" y="80" as="geometry" />
+        <mxCell id="IAIlfik7lqYtiTm0q00A-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Scheduler&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;Када и коме доделити &lt;/font&gt;задатак?&lt;br&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="350" y="80" as="geometry" />
         </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Worker instance&lt;/font&gt;&lt;/i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;Ко извршава?&lt;/font&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="55" y="160" as="geometry" />
         </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="243" width="240" x="340" y="187" as="geometry" />
+          <mxGeometry height="243" width="280" x="320" y="188" as="geometry" />
         </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-28" edge="1" parent="1" source="IAIlfik7lqYtiTm0q00A-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="IAIlfik7lqYtiTm0q00A-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IAIlfik7lqYtiTm0q00A-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Job&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Конкретно покретање задатка&lt;/font&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="360" y="262" as="geometry" />
+        <mxCell id="IAIlfik7lqYtiTm0q00A-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Job&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;&lt;/font&gt;Појединачно извршавање задатка&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="340" y="262" as="geometry" />
         </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=zigzag-line;fillColor=none;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Orchestrator&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;&lt;br&gt;Шта се ради и којим редом?&lt;/pre&gt;&lt;/pre&gt;&lt;/code&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="360" y="354" as="geometry" />
+          <mxGeometry height="60" width="240" x="340" y="351" as="geometry" />
         </mxCell>
         <mxCell id="IAIlfik7lqYtiTm0q00A-14" edge="1" parent="1" source="IAIlfik7lqYtiTm0q00A-2" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="IAIlfik7lqYtiTm0q00A-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -49,7 +46,7 @@
         <mxCell id="IAIlfik7lqYtiTm0q00A-16" edge="1" parent="1" source="IAIlfik7lqYtiTm0q00A-4" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="IAIlfik7lqYtiTm0q00A-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="220" />
+              <mxPoint x="290" y="220" />
             </Array>
             <mxPoint x="345" y="110" as="sourcePoint" />
             <mxPoint x="320" y="280" as="targetPoint" />
@@ -100,6 +97,9 @@
             <mxPoint x="331" y="320" as="sourcePoint" />
             <mxPoint x="210" y="425" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IAIlfik7lqYtiTm0q00A-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;Runtime&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/code&gt;&lt;br&gt;Окружење у којем извршавање „живи“&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="280" x="320" y="188" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
