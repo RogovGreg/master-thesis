@@ -34,7 +34,7 @@
         <mxCell id="MFd9MK_nad8XhqwuTopf-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Регистровати се или&lt;/font&gt;&lt;div&gt;&lt;font&gt;се пријавити у систем&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Приузети локалну&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;верзију система&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Преузети локалну&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;верзију система&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="128" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;b&gt;Систем &lt;i&gt;JELICA&lt;/i&gt;&lt;/b&gt;" vertex="1">
@@ -49,13 +49,13 @@
         <mxCell id="MFd9MK_nad8XhqwuTopf-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Пригледати информације&lt;/font&gt;&lt;div&gt;&lt;font&gt;и документацију&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="178" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Припремити аналитички задатак&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Подесити параметре&lt;/font&gt;&lt;/code&gt;&lt;div&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;тражене анализе&lt;/font&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="228" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати извршавањем&lt;/font&gt;&lt;div&gt;&lt;font&gt;аналитичког задатка&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="278" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Прегледати и извести резултате&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Прегледати и извести&lt;/font&gt;&lt;div&gt;&lt;font&gt;резултате&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="328" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати обавештењима&lt;/font&gt;" vertex="1">
@@ -67,28 +67,28 @@
         <mxCell id="MFd9MK_nad8XhqwuTopf-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Сарађивати на пројекту&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="478" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати учесницима пројекта&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати учесницима&lt;/font&gt;&lt;div&gt;&lt;font&gt;пројекта&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="381.5" y="528" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати улазним подацима&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Подесити анализу&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Подесити параметре&lt;/font&gt;&lt;/code&gt;&lt;div&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;тражене анализе&lt;/font&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="128" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Извршити геномску анализу&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Извршити тражену анализу&lt;/font&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="178" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Управљати аналитичким задацима&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="228" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Пратити извршавање анализе&lt;/font&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Пратити извршавање аналитичког задатка&lt;/font&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="278" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Увести и извести податке&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="328" as="geometry" />
         </mxCell>
-        <mxCell id="MFd9MK_nad8XhqwuTopf-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;font&gt;Подесити параметре&lt;/font&gt;&lt;div&gt;&lt;font&gt;аналитичког језгра&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="MFd9MK_nad8XhqwuTopf-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Подесити системску конфигурацију&lt;/font&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="154.5" y="378" as="geometry" />
         </mxCell>
         <mxCell id="MFd9MK_nad8XhqwuTopf-35" edge="1" parent="1" source="MFd9MK_nad8XhqwuTopf-2" style="endArrow=none;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MFd9MK_nad8XhqwuTopf-27" value="">

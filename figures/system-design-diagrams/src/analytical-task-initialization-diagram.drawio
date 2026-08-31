@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="pB_JW3Ho0JHbmXSknPr0">
-    <mxGraphModel dx="800" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         </mxCell>
         <mxCell id="BcpNELc4YkkhxBgyda9Y-29" edge="1" parent="1" source="BcpNELc4YkkhxBgyda9Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BcpNELc4YkkhxBgyda9Y-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0JHJ4jofQ5IOtrhJRqTj-1" connectable="0" parent="BcpNELc4YkkhxBgyda9Y-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;глобални технички параметри&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0714" y="-3" as="geometry">
+            <mxPoint x="19" y="15" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BcpNELc4YkkhxBgyda9Y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Системска конфигурација" vertex="1">
           <mxGeometry height="40" width="240" x="60" y="90" as="geometry" />

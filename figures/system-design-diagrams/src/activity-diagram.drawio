@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="FRfa7gDF8rm0Jglzj7lv">
-    <mxGraphModel dx="541" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,8 @@
         <mxCell id="fIxDzetzPopSfdlK1sRm-48" edge="1" parent="1" source="fIxDzetzPopSfdlK1sRm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fIxDzetzPopSfdlK1sRm-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fIxDzetzPopSfdlK1sRm-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обрада, валидација и статистичка анализа секвенци" vertex="1">
-          <mxGeometry height="40" width="200" x="314" y="200" as="geometry" />
+        <mxCell id="fIxDzetzPopSfdlK1sRm-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Обрада, валидација и израчунавање нумеричких карактеристика секвенци&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="280" y="200" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-24" edge="1" parent="1" source="fIxDzetzPopSfdlK1sRm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fIxDzetzPopSfdlK1sRm-8">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +67,10 @@
         <mxCell id="fIxDzetzPopSfdlK1sRm-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="394" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="fIxDzetzPopSfdlK1sRm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Генерисање резултата без валидних узорака" vertex="1">
+        <mxCell id="fIxDzetzPopSfdlK1sRm-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Генерисање резултата без валидних секвенци&lt;/font&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="10" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="fIxDzetzPopSfdlK1sRm-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Генерисање&amp;nbsp;резултата анализе једног узорка" vertex="1">
+        <mxCell id="fIxDzetzPopSfdlK1sRm-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Генерисање резултата анализе једне секвенце&lt;/font&gt;&lt;/code&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="232" y="340" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-27" edge="1" parent="1" source="fIxDzetzPopSfdlK1sRm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fIxDzetzPopSfdlK1sRm-14">
@@ -118,8 +118,8 @@
         <mxCell id="fIxDzetzPopSfdlK1sRm-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обрада привремених и изворних датотека у складу са политиком чувања" vertex="1">
           <mxGeometry height="40" width="270" x="300" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="fIxDzetzPopSfdlK1sRm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Број валидних узорака" vertex="1">
-          <mxGeometry height="30" width="160" x="409" y="251" as="geometry" />
+        <mxCell id="fIxDzetzPopSfdlK1sRm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Број валидних секвенци&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="161" x="422" y="251" as="geometry" />
         </mxCell>
         <mxCell id="fIxDzetzPopSfdlK1sRm-36" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="420" y="760" as="geometry" />
